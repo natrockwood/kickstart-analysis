@@ -29,7 +29,7 @@ According to the chart, there is a spike in the number of successful theater cam
 Overall, the average length of a campaign was 33 days. 73% of Successful campaigns happened under the average number of days. At the same time, 68% of failed campaigns also happened under the average number of days.
 * With this analysis, the length of the campaigns don't really matter.
 #### Conclusion
-To conclude, the amount of the campaigns' goals for plays are inversely related to the number of campaigns that were taken place. More campaigns were more scucessful if the goals are lower. 
+To conclude, the amount of the campaigns' goals for plays are inversely related to the number of campaigns that were taken place. More campaigns were more successful if the goals are lower. 
 For theater campaigns, they are more successful when the campaigns start in the Summer months. According to the data, May is the best month to start theater campaigns.
 Finally, the length of the campaigns don't matter as they last around a month, whether they succeed or fail.
 * Please refer to this for the Challenge Data and Analysis: [Kickstarter Assignment](https://github.com/natrockwood/kickstart-analysis/blob/master/Assignment%201_03.15.2020.xlsx)
