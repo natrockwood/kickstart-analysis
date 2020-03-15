@@ -15,7 +15,7 @@ This further analysis was conducted to...
 #### Do the goals of a campaign in the "Plays" Subcategory influence its success or failure?
 According to the chart below...
 * The lower the goal, the more campaigns took place, and more were successful.
-* The higher the goal, the lesser campaigns took placee, and more failed.
+* The higher the goal, the lesser campaigns took place, and more failed.
 Overall, the higher the goal, the least likely the campaign was going to succeed in reaching its projected goals.
 ![Campaign Goals vs. Outcome](https://github.com/natrockwood/kickstart-analysis/blob/master/A1_Outcomes%20Based%20on%20Goal.PNG)
 #### Does it matter when the "Theater" campaigns start?
