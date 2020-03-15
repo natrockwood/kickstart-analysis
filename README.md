@@ -5,8 +5,8 @@ This project is an analysis of successful and unsuccessful kickstarter campaigns
 ![Total Count of Outcomes](https://github.com/natrockwood/kickstart-analysis/blob/master/Total%20Count%20of%20Outcomes.PNG)
 * From these successful outcomes, most were started in May. This means that the spring/summer months are the best for starting kickstarter campaigns.
 ![Outcomes Based on Launch Date](https://github.com/natrockwood/kickstart-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.PNG)
-* For full analysis and reference of data gathered, reference the file:
-[Kickstarter Data](https://github.com/natrockwood/kickstart-analysis/blob/master/1.1.3%20Data%20StarterBook.zip)
+---
+Please refer to this for Module Analysis: [Kickstarter Data](https://github.com/natrockwood/kickstart-analysis/blob/master/1.1.3%20Data%20StarterBook.zip)
 ---
 ### Challenge
 This further analysis was conducted to... 
@@ -33,3 +33,5 @@ Overall, the average length of a campaign was 33 days. 73% of Successful campaig
 To conclude, the amount of the campaigns' goals for plays are inversely related to the number of campaigns that were taken place. More campaigns were more scucessful if the goals are lower. 
 For theater campaigns, they are more successful when the campaigns start in the Summer months. According to the data, May is the best month to start theater campaigns.
 Finally, the length of the campaigns don't matter as they last around a month, whether they succeed or fail.
+---
+Please refer to this for the Challenge Data and Analysis: [Kickstarter Assignment](https://github.com/natrockwood/kickstart-analysis/blob/master/Assignment%201_03.15.2020.xlsx)
